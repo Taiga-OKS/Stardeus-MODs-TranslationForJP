@@ -14,3 +14,6 @@ More beverages Tea MODs本体のある[ Translations ]ディレクトリ内に�
 Stardeusの言語設定でJapaneseを選択すると、日本語の翻訳が表示される様になる。
 
 Stardeusを起動し、MODを選択した後、[ More beverages Tea ]の[ ディレクトリを開く ]からMODsのディレクトリを開くことができます。
+
+注）2022-11-19日現在のStardeusでは、日本語にすると「人の状態を表すキー」が「無効なキー」として認識され警告文が表示されてしまいます。
+開発者へは申告済みなので、Stardeus本体のアップデート待ちです。

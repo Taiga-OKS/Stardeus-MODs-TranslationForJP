@@ -1,0 +1,5 @@
+Key,Translation,Comment
+merchant.type.MerchantBulkGoods,バルク品取扱業者,,
+merchant.type.MerchantHumanTrafficker,人身売買業者,,
+merchant.type.MerchantLogistics,物流品業者,,
+merchant.type.MerchantExoticGoods,特殊品目商売人,,

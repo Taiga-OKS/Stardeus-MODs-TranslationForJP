@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 Key,Translation,Comment,,
 merchant.type.MerchantBulkGoods,バルク品取扱業者,,
 merchant.type.MerchantHumanTrafficker,人身売買業者,,
 merchant.type.MerchantLogistics,物流品業者,,
 merchant.type.MerchantExoticGoods,特殊品目商売人,,
-=======
-Key,Translation,Comment,,
-merchant.type.MerchantBulkGoods,バルク品取扱業者,,
-merchant.type.MerchantHumanTrafficker,人身売買業者,,
-merchant.type.MerchantLogistics,物流品業者,,
-merchant.type.MerchantExoticGoods,特殊品目商売人,,
->>>>>>> 86a717a9934e1b125f92c138cb30849e065d43bc

@@ -11,6 +11,6 @@ More beverages (Tea)
 https://steamcommunity.com/sharedfiles/filedetails/?id=2880506654&searchtext=
 
 More beverages Tea MODs本体のある[ Translations ]ディレクトリ内に、Japanese.csvを置く事で、
-Stardeusの言語設定でJapaneseを選択すると、日本語の翼が表示される様になる。
+Stardeusの言語設定でJapaneseを選択すると、日本語の翻訳が表示される様になる。
 
 Stardeusを起動し、MODを選択した後、[ More beverages Tea ]の[ ディレクトリを開く ]からMODsのディレクトリを開くことができます。

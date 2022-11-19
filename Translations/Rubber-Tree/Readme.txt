@@ -11,6 +11,6 @@ Rubber Trees
 https://steamcommunity.com/sharedfiles/filedetails/?id=2886179576&searchtext=
 
 Rubber Trees MODs本体のある[ Translations ]ディレクトリ内に、Japanese.csvを置く事で、
-Stardeusの言語設定でJapaneseを選択すると、日本語の翼が表示される様になる。
+Stardeusの言語設定でJapaneseを選択すると、日本語の翻訳が表示される様になる。
 
 Stardeusを起動し、MODを選択した後、[ Rubber Trees ]の[ ディレクトリを開く ]からMODsのディレクトリを開くことができます。

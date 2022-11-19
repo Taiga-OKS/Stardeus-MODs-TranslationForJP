@@ -1,0 +1,16 @@
+Creating Japanese translations for Stardeus MODs
+## About The Project
+Steamで早期アクセスゲームとして公開されている、[ Stardeus ]のWorkshopで公開されているMOD用日本語ファイルを公開<br>
+MODの[ Translations ]フォルダに置くことで、MODを日本語で利用できる様になる。
+Stardeusのアップデートにより、MODの翻訳用ディレクトリと同階層に置くことで、本体で設定した言語と同じ言語が読み込まれる様になりました。
+非公式ファイルなので、使用は自己責任となります。
+MOD作者からの要望で、突然削除されることもあります。
+
+Stardeus MODs 
+Rubber Trees
+https://steamcommunity.com/sharedfiles/filedetails/?id=2886179576&searchtext=
+
+Rubber Trees MODs本体のある[ Translations ]ディレクトリ内に、Japanese.csvを置く事で、
+Stardeusの言語設定でJapaneseを選択すると、日本語の翼が表示される様になる。
+
+Stardeusを起動し、MODを選択した後、[ Rubber Trees ]の[ ディレクトリを開く ]からMODsのディレクトリを開くことができます。

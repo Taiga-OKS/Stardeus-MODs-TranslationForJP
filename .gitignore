@@ -4,5 +4,6 @@
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
 .DS_Store
+/.DS_Store
 /.nova/Configuration.json
 /.nova/Artwork

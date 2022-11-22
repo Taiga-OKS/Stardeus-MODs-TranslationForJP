@@ -7,10 +7,10 @@ Stardeusのアップデートにより、MODの翻訳用ディレクトリと同
 MOD作者からの要望で、突然削除されることもあります。
 
 Stardeus MODs 
-Scullpture
+Sculpture
 https://steamcommunity.com/workshop/filedetails/?id=2890225476
 
 Rubber Trees MODs本体のある[ Translations ]ディレクトリ内に、Japanese.csvを置く事で、
 Stardeusの言語設定でJapaneseを選択すると、日本語の翻訳が表示される様になる。
 
-Stardeusを起動し、MODを選択した後、[ Scullpture ]の[ 開く ]からMODsのディレクトリを開くことができます。
+Stardeusを起動し、MODを選択した後、[ Sculpture ]の[ 開く ]からMODsのディレクトリを開くことができます。

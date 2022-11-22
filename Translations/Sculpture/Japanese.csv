@@ -53,7 +53,7 @@ research.sculpting.desc,"彫刻作品は、さまざまな材料から彫刻す�
 sculptures.created_art,"芸術作品",,
 sculpting.slots,彫刻スロット,,
 sculpting.adrejected.lackequipment,彫刻設備が不足しています,,
-sculpturebench.warn_if_storage_full,保管スペースがない場合は警告する,,
+sculpturebench.warn_if_storage_full,保管場所がない時は警告,,
 sculpturebench.storage_full,隣接する収納庫がいっぱい,,
 sculpturebench.storage_full_notif,{1}ための {0} 周りに空きがありません,,
 creator.title,{0}で創る,,

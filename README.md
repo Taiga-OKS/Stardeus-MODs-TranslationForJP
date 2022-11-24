@@ -7,3 +7,7 @@ MODの[ Translations ]フォルダに置くことで、MODを日本語で利用�
 Stardeusのアップデートにより、MODの翻訳用ディレクトリと同階層に置くことで、本体で設定した言語と同じ言語が読み込まれる様になりました。<br>
 非公式ファイルなので、使用は自己責任となります。<br>
 MOD作者からの要望で、突然削除されることもあります。
+<!-- ABOUT THE TRANSLATER -->
+## About The Translater
+日本語翻訳者<br>
+稲垣 太治郎(Taiga-OKS)

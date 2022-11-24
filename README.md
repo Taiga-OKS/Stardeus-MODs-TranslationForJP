@@ -8,6 +8,6 @@ Stardeusのアップデートにより、MODの翻訳用ディレクトリと同
 非公式ファイルなので、使用は自己責任となります。<br>
 MOD作者からの要望で、突然削除されることもあります。
 <!-- ABOUT THE TRANSLATER -->
-## About The Translater
+## About The Translator
 日本語翻訳者<br>
 稲垣 太治郎(Taiga-OKS)

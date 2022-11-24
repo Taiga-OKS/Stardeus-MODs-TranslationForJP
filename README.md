@@ -10,7 +10,8 @@ MOD作者からの要望で、突然削除されることもあります。
 <!-- ABOUT THE MODs -->
 ## MODs introduction
 Wikiの方にここで翻訳した MODs について紹介をしています。<br>
-<a herf="https://github.com/Taiga-OKS/Stardeus-MODs-TranslationForJP/wiki">MODs 紹介 Wiki のページ</a>
+MODs 紹介 Wiki のページ<br>
+https://github.com/Taiga-OKS/Stardeus-MODs-TranslationForJP/wiki
 <!-- ABOUT THE TRANSLATER -->
 ## About The Translator
 日本語翻訳者<br>

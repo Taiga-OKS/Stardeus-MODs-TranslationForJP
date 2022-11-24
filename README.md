@@ -10,4 +10,5 @@ MOD作者からの要望で、突然削除されることもあります。
 <!-- ABOUT THE TRANSLATER -->
 ## About The Translator
 日本語翻訳者<br>
-稲垣 太治郎(Taiga-OKS)
+稲垣 太治郎(Taiga-OKS)<br>
+ゲーム[ Stardeus ]本体の日本語訳者として許可認証済み

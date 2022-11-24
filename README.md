@@ -11,7 +11,7 @@ MOD作者からの要望で、突然削除されることもあります。
 ## MODs introduction
 Wikiの方にここで翻訳した MODs について紹介をしています。<br>
 MODs 紹介 Wiki のページ<br>
-https://github.com/Taiga-OKS/Stardeus-MODs-TranslationForJP/wiki
+https://github.com/Taiga-OKS/Stardeus-MODs-TranslationForJP/wiki/Stardeus-MODs-introduction
 <!-- ABOUT THE TRANSLATER -->
 ## About The Translator
 日本語翻訳者<br>
